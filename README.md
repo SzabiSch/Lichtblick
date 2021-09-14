@@ -1,1 +1,0 @@
- - HTML strukturiert und Bilder zu GIT hinzugefügt und hochgepusht 
