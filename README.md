@@ -1,1 +1,1 @@
- - HTML strukturiert und Bilder zu GIT hinzugefügt und hochgepusht 
+-CSS Erweiterungen sind beigefügt
