@@ -48,6 +48,7 @@ html {
   text-align: center;
   text-decoration: none;
 }
+
 .box {
   font-family: "Lato", sans-serif;
   font-size: 3rem;
@@ -68,29 +69,29 @@ html {
 }
 
 /* Erste Karte*/
-.first-card {
+.card {
   border: 2px solid black;
   border-radius: 6px;
+  margin-bottom: 2rem;
 }
 
-.first-card:hover img {
+.card:hover img {
   transform: translateX(10px) translateY(-10px);
   transition: transform 1s;
 }
 
 img {
   display: block;
-}
-/*
   margin-left: -10px;
   margin-top: 10px;
   position: relative;
   z-index: -1;
   border-radius: 6px 6px 0 0;
-}*/
+}
 
-/*Zweite Karte*/
-
+.link-card {
+  text-decoration: underline;
+}
 /* Footer Formatierung*/
 
 footer {
