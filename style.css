@@ -68,7 +68,6 @@ button {
   background-color: grey;
 }
 
-/* Erste Karte*/
 .card {
   border: 2px solid black;
   border-radius: 6px;
@@ -99,7 +98,8 @@ img {
 footer {
   font-family: "Roboto", sans-serif;
   font-size: 2rem;
-  justify-content: column;
+  display: flex;
+  flex-direction: column;
   text-align: center;
 
   background-color: black;
@@ -110,7 +110,7 @@ a {
   text-underline-offset: 1rem;
 
   color: white;
-  display: flex;
+
   padding-top: 4rem;
   padding-bottom: 2rem;
 }
