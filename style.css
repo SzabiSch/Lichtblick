@@ -92,11 +92,20 @@ img {
 footer {
   font-family: "Roboto", sans-serif;
   font-size: 2rem;
-  color: white;
+  padding: 2rem;
   background-color: black;
   margin-top: 20px;
   text-align: center;
 }
+
+a {
+  color: white;
+  display: flex;
+  justify-content: column;
+  text-align: center;
+  padding: 2rm;
+}
+/*
 ul {
   list-style: none;
   padding: 2em;
@@ -107,3 +116,4 @@ li {
   border-bottom: 2px solid white;
   padding: 1rem;
 }
+*/
