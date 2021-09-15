@@ -45,6 +45,7 @@ html {
   border-radius: 8px;
   padding: 0.8rem;
   color: black;
+  text-align: center;
   text-decoration: none;
 }
 .box {
@@ -66,6 +67,7 @@ html {
   background-color: grey;
 }
 
+/* Erste Karte*/
 .first-card {
   border: 2px solid black;
   border-radius: 6px;
@@ -87,12 +89,14 @@ img {
   border-radius: 6px 6px 0 0;
 }*/
 
+/*Zweite Karte*/
+
 /* Footer Formatierung*/
 
 footer {
   font-family: "Roboto", sans-serif;
   font-size: 2rem;
-  padding: 2rem;
+  padding-top: 4rem;
   background-color: black;
   margin-top: 20px;
   text-align: center;
@@ -103,7 +107,7 @@ a {
   display: flex;
   justify-content: column;
   text-align: center;
-  padding: 2rm;
+  padding-top: 2rm;
 }
 /*
 ul {
